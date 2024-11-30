@@ -20,7 +20,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
 
 - 💬 Ask me about **Python & Django**
 
-- 📫 How to reach me **sayefahmed251@gmail.com / hikmotit@gmail.com**
+- 📫 How to reach me **ahmedsabbir32131@gmail.com / msabbir21.mkt@bu.ac.bd**
   
 - ⚡ Fun fact **Call me as Snake**
 
