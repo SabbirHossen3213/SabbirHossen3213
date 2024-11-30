@@ -16,7 +16,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
   
 - 🌱 I’m currently learning **REST API**
 
-- 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
+- 🧑‍🎓 I’m an Undergraduate at **BBA (Hon's) in Marketing**
 
 - 💬 Ask me about **Data Entry and Process**
 
