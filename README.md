@@ -18,7 +18,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
 
 - 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about **Data Entry and Process**
 
 - 📫 How to reach me **ahmedsabbir32131@gmail.com / msabbir21.mkt@bu.ac.bd**
   
